@@ -1,3 +1,4 @@
+// only Applicable for PORT K of ARDUINO MEGA 
 void init();
 void output(char x);
 
