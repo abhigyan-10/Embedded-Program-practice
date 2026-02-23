@@ -1,0 +1,17 @@
+#include "led.h"
+
+void setup() {
+  // put your setup code here, to run once:
+  init();
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  volatile long x;
+  char i;
+  for(i=0;i<=7;i++){
+    x=1<<i;
+    output(x);
+    for(x=0;x<=60000;x++);
+  }
+}
