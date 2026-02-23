@@ -1,3 +1,4 @@
+//make the lights run from right to left for Port B
 #include "led.h"
 
 void setup() {
