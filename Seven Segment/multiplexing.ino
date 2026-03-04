@@ -1,4 +1,4 @@
-//00 to 99 by multiplexing them on Port A
+//00 to 99 by multiplexing them on Port A and bit0 and bit1 of Port B
 #define A (1<<0)
 #define B (1<<1)
 #define C (1<<2)
