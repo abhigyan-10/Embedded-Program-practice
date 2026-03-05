@@ -1,4 +1,4 @@
-//displaying 0000 to 9999 by multiplexing  4 seven segment display 
+//displaying 0000 to 9999 by multiplexing  4 seven segment display by common anode
 #define A (1<<0)
 #define B (1<<1)
 #define C (1<<2)
