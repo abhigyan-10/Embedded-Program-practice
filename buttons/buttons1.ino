@@ -1,4 +1,5 @@
 // 0th button glow 0th led.....1st button glow 1st led....and so on
+//8 leds connected to port A and 8 button switches connected to port B
 void setup() {
   // put your setup code here, to run once:
   volatile char *dirA, *dirB;
