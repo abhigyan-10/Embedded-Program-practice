@@ -1,3 +1,4 @@
+//displaying 0.000 to 999.9 by multiplexing 4 seven segment displays 
 #define A (1<<0)
 #define B (1<<1)
 #define C (1<<2)
