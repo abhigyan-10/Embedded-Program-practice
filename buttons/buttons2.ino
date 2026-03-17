@@ -1,5 +1,5 @@
 //8 leds to port A and 8 buttons to port B
-//0th button glows 7th led, 1st button glows 6th led
+//0th button glows 7th led, 1st button glows 6th led and goes on
 
 void setup() {
   // put your setup code here, to run once:
